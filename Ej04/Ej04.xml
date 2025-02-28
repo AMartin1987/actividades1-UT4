@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Ej04\estilo.css"?>
+<!DOCTYPE caratula_pelicula SYSTEM "Ej04\caratula_pelicula.dtd">
+
+<caratula_pelicula>
+    <imagen_fondo src="url_de_imagen.jpg">
+    </imagen_fondo>
+    <reparto>
+        <nombres>Ewan</nombres>
+        <apellidos>McGregor</apellidos>
+    </reparto>
+    <titulo>
+    </titulo>
+    <descripcion>Una película de
+        <director>Tim Burton</director>
+    </descripcion>
+    <frase>Una aventura tan grande como la vida misma
+    </frase>
+</caratula_pelicula>

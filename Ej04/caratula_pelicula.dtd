@@ -1,0 +1,10 @@
+<!ELEMENT caratula_pelicula (imagen_fondo, reparto+, titulo?, descripcion, frase+)>
+<!ELEMENT imagen_fondo EMPTY>
+<!ATTLIST imagen_fondo src CDATA #REQUIRED>
+<!ELEMENT reparto (nombres, apellidos)>
+<!ELEMENT nombres (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT descripcion (director)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT frase (#PCDATA)>

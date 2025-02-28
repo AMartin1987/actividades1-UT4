@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="estilo.css"?>
-<!DOCTYPE liga SYSTEM "liga.dtd">
+<!DOCTYPE liga SYSTEM "Ej01_Equipos\liga.dtd">
 
 <liga>
     <equipo>

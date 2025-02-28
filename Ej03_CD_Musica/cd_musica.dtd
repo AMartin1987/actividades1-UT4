@@ -1,6 +1,6 @@
 <!ELEMENT cd (info, lista_temas+)>
 <!ELEMENT info (portada?, artista, titulo, sello, referencia, año, pais, formato, genero, estilo, observaciones)>
-<!ELEMENT portada (#PCDATA)>
+<!ELEMENT portada EMPTY>
 <!ELEMENT artista (#PCDATA)>
 <!ELEMENT titulo (#PCDATA)>
 <!ELEMENT sello (#PCDATA)>

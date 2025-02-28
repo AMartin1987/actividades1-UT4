@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="estilo.css"?>
-<!DOCTYPE liga SYSTEM "cd_musica.dtd">
+<!DOCTYPE cd_musica SYSTEM "Ej03_CD_Musica/cd_musica.dtd">
 
 <cd>
     <info>
-        <portada>
-        </portada>
+        <portada/>
         <artista>ABC (2)
         </artista>
         <titulo>The Collection
