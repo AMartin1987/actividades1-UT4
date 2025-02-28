@@ -9,6 +9,6 @@
 <!ELEMENT apellidos (#PCDATA)>
 <!ELEMENT año_nacimiento (#PCDATA)>
 <!ELEMENT lugar_nacimiento (#PCDATA)>
-<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT posicion (Portero | Defensor | Centrocampista | Delantero)>
 <!ELEMENT estatura (#PCDATA)>
 <!ELEMENT peso (#PCDATA)>

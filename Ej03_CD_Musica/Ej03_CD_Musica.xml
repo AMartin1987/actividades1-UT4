@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<!DOCTYPE liga SYSTEM "cd_musica.dtd">
+
+<cd>
+    <info>
+        <portada>
+        </portada>
+        <artista>ABC (2)
+        </artista>
+        <titulo>The Collection
+        </titulo>
+        <sello>KARUSSELL INTERNATIONAL
+        </sello>
+        <referencia>551 831-2
+        </referencia>
+        <año>1996
+        </año>
+        <pais>Germany
+        </pais>
+        <formato>CD - Compilation
+        </formato>
+        <genero>Funk / Soul, Electronic
+        </genero>
+        <estilo>Funk Disco, Synth Pop
+        </estilo>
+        <observaciones>Licenced from Mercury Records Ltd (London)
+        </observaciones>
+    </info>
+    <lista_temas>
+        <numero>01</numero>
+        <titulo>Poison Arrow</titulo>
+        <duracion>[03:23]</duracion>
+    </lista_temas>
+</cd>
