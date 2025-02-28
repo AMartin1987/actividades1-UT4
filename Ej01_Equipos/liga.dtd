@@ -1,0 +1,14 @@
+<!ELEMENT liga (equipo+)>
+<!ELEMENT equipo (nombre_equipo, ubicacion, entrenador, plantel)>
+<!ELEMENT nombre_equipo (#PCDATA)>
+<!ELEMENT ubicacion (#PCDATA)>
+<!ELEMENT entrenador (#PCDATA)>
+<!ELEMENT plantel (jugador+)>
+<!ELEMENT jugador (nombres, apellidos, año_nacimiento, lugar_nacimiento, posicion, estatura, peso)>
+<!ELEMENT nombres (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT año_nacimiento (#PCDATA)>
+<!ELEMENT lugar_nacimiento (#PCDATA)>
+<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT estatura (#PCDATA)>
+<!ELEMENT peso (#PCDATA)>

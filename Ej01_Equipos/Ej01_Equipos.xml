@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<!DOCTYPE liga SYSTEM "liga.dtd">
+
+<liga>
+    <equipo>
+        <nombre_equipo>Club Atlético de Madrid</nombre_equipo>
+        <ubicacion>Madrid</ubicacion>
+        <entrenador>Diego Simeone</entrenador>
+        <plantel>
+            <jugador>
+                <nombres>Julián</nombres>
+                <apellidos>Álvarez</apellidos>
+                <año_nacimiento>2000</año_nacimiento>
+                <lugar_nacimiento>Calchín, Argentina</lugar_nacimiento>
+                <posicion>Delantero</posicion>
+                <estatura>170</estatura>
+                <peso>71</peso>
+            </jugador>
+            <jugador>
+                <nombres>Rodrigo</nombres>
+                <apellidos>De Paul</apellidos>
+                <año_nacimiento>1994</año_nacimiento>
+                <lugar_nacimiento>Sarandí, Argentina</lugar_nacimiento>
+                <posicion>Centrocampista</posicion>
+                <estatura>180</estatura>
+                <peso>70</peso>
+            </jugador>
+            <jugador>
+                <nombres>Ángel Martín</nombres>
+                <apellidos>Correa Martínez</apellidos>
+                <año_nacimiento>1995</año_nacimiento>
+                <lugar_nacimiento>Rosario, Argentina</lugar_nacimiento>
+                <posicion>Delantero</posicion>
+                <estatura>171</estatura>
+                <peso>70</peso>
+            </jugador>
+            <jugador>
+                <nombres>Nahuel</nombres>
+                <apellidos>Molina Lucero</apellidos>
+                <año_nacimiento>1998</año_nacimiento>
+                <lugar_nacimiento>Embalse, Argentina</lugar_nacimiento>
+                <posicion>Defensa</posicion>
+                <estatura>175</estatura>
+                <peso>70</peso>
+            </jugador>
+            <jugador>
+                <nombres>Giuliano</nombres>
+                <apellidos>Simeone</apellidos>
+                <año_nacimiento>2002</año_nacimiento>
+                <lugar_nacimiento>Roma, Italia</lugar_nacimiento>
+                <posicion>Delantero</posicion>
+                <estatura>173</estatura>
+                <peso>75</peso>
+            </jugador>
+        </plantel>  
+    </equipo>
+</liga>
